@@ -30,6 +30,7 @@ import android.view.WindowManager;
 
 // Use instructions from
 // https://web.stanford.edu/class/ee368/Android/Tutorial-2.pdf
+// Adding git support
 public class FdActivity extends Activity implements CvCameraViewListener2 {
 
     private static final String    TAG                 = "OCVSample::Activity";
