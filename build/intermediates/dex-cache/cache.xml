@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\miye\workandroid\face-detection\openCVSamplefacedetection\build\intermediates\exploded-aar\face-detection\openCVLibrary310\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="608e4700fb6772d37c8d0ba1e2e55ed0e1cde1a1">
+        <dex dex="C:\miye\workandroid\face-detection\openCVSamplefacedetection\build\intermediates\pre-dexed\debug\face-detection-openCVLibrary310-unspecified_c017aaa95cf5d2797f53260d222e937d64bdd84c.jar" />
+    </item>
+
+</items>
