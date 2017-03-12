@@ -123,6 +123,7 @@ public class EdActivity extends Activity implements CvCameraViewListener2 {
                                 R.raw.haarcascade_lefteye_2splits);
                         File cascadeDirER = getDir("cascadeER",
                                 Context.MODE_PRIVATE);
+                        // MIYE Added the xml file
                         File cascadeFileER = new File(cascadeDirER,
                                 "haarcascade_eye_right.xml");
                         FileOutputStream oser = new FileOutputStream(cascadeFileER);
